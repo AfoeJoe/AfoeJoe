@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Okunola Joshua@AfoeJoe
 - 👀 I’m interested in Web development and embedded system programming 
-- 🌱 I’m currently learning JavaScript with React and C for playing with my hardware(raspberry pi and arduino)
-- 💞️ I’m looking to collaborate on any project
+- 🌱 I’m happy with JavaScript with React and C.
+- 💞️ I’m looking to collaborate on projects
 - 📫 How to reach me : Email: Okunola_joshua@yahoo.com or Afoejoe@gmail.com
 
 <!---
